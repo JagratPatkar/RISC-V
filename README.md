@@ -1,2 +1,2 @@
 # RISC-V
-A RISC-V CPU Core of Base RV32I ISA implemented in TL-Verilog.
+A **RISC-V CPU Core** of Base **RV32I** ISA implemented in TL-Verilog. The current implementation consists of 31 instructions out of the 47 in the Base RV32I ISA, all the instructions which can independently run on the CPU have been implemented. 
